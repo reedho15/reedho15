@@ -14,17 +14,17 @@ Selamat datang di dunia kecil saya. Silakan duduk, lihat-lihat, dan kalau ada ya
 
 ## 🌱 Tentang saya
 
-Nama lengkap saya **NAMA LENGKAP ANDA**, tapi teman-teman biasa memanggil saya **Reedho**.
+Nama lengkap saya **Ach Albadriyano Reedhoni Diponegoro**, tapi teman-teman biasa memanggil saya **Reedho**.
 
 Saya orang yang gampang penasaran. Kalau ada hal baru yang menarik, biasanya saya langsung ingin tahu cara kerjanya, lalu mencobanya sendiri. Dari kebiasaan itulah saya jadi suka teknologi, jaringan, aplikasi web dan mobile, IoT, dan Linux. Bagi saya semua itu bukan sekadar pekerjaan, tapi cara menyenangkan untuk belajar dan bertumbuh.
 
-Di luar layar, saya suka **HOBI ANDA, misalnya ngopi, jalan-jalan, outbound, atau membaca**.
+Di luar layar, saya suka **Sepak Bola, Membaca, Traveling & Hiking**.
 
 ## ✨ Yang sedang saya lakukan
 
-- 🔭 Sedang mengerjakan: **ISI PROYEK / KEGIATAN SEKARANG**
-- 📚 Sedang belajar: **ISI HAL YANG SEDANG DIPELAJARI**
-- 🌿 Sedang tertarik dengan: **ISI MINAT BARU ANDA**
+- 🔭 Sedang mengerjakan: **PROYEK STRATEGIS NASIONAL**
+- 📚 Sedang belajar: **MEMAHAMI INDONESIA**
+- 🌿 Sedang tertarik dengan: **JADI PRESIDEN**
 - 💬 Boleh ngobrol soal: teknologi, jaringan, IoT, Linux, atau apa saja yang bikin penasaran
 
 ## 🧰 Teman seperjalanan
