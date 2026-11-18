@@ -72,7 +72,6 @@ Saya sematkan proyek pilihan di bagian *Pinned* di atas. Berikut cerita singkatn
   <a href="mailto:ridhoworld646@gmail.com"><img src="https://img.shields.io/badge/Email-7aa6a1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ridho-alba-bb2a55431/"><img src="https://img.shields.io/badge/LinkedIn-7aa6a1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/reed.hoo"><img src="https://img.shields.io/badge/Instagram-7aa6a1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://reedho.me"><img src="https://img.shields.io/badge/Website-7aa6a1?style=for-the-badge&logo=safari&logoColor=white" alt="Website" /></a>
 </p>
 
 ---
